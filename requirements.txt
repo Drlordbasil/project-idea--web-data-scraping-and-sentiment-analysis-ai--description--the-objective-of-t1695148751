@@ -1,0 +1,5 @@
+The package requirements for this Python program are:
+- requests
+- matplotlib
+- bs4 (BeautifulSoup)
+- nltk
